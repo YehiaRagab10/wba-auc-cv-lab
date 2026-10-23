@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large files: downloaded from Google Drive, not tracked in git
+checkpoints/
+best_submission/
+*.pt
+*.pth
+*.bl2
+*.zip
+
+# Data and generated outputs
+data/
+output/
+mlruns/
