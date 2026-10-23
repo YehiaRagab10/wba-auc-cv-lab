@@ -10,7 +10,7 @@ Code for our first-place system in the **WBA 2026 challenge (Who is Behind the A
 
 The trained checkpoints and the submitted file are too large for GitHub and are on Google Drive:
 
-**https://drive.google.com/drive/folders/1CZO8eeVMWaDIB_-7IITbfyvTksNEFCDb?usp=drive_link**
+**https://drive.google.com/drive/folders/1o7KbZfFkAaQEH7mbVzawTKdA-mtqbiAD?usp=sharing**
 
 The Drive folder contains:
 - `checkpoints/`: the 11 trained models used in the submission, one folder per model type;
